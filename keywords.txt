@@ -1,0 +1,5 @@
+PrecisionTimer	KEYWORD1
+start		KEYWORD2
+stop		KEYWORD2
+reset		KEYWORD2
+print		KEYWORD2
